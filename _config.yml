@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Huishi Luo - Homepage"
+title                    : "Huishi Luo"
 title_separator          : "-"
 name                     : &name "Huishi Luo"
 description              : &description "Ph.D. at Beihang University. Contact: hsluo2000@buaa.edu.cn"   # Update this with a general description of your site, this is the default if not overridden by a page
