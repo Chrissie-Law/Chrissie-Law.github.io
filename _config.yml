@@ -23,7 +23,7 @@ repository               : "Chrissie-Law/Chrissie-Law.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Huishi Luo (罗慧诗)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate at Beihang University. Contact: hsluo2000@buaa.edu.cn & hsluo2000@gmail.com"
