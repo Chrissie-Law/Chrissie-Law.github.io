@@ -12,21 +12,21 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Huishi Luo"
 title_separator          : "-"
 name                     : &name "Huishi Luo"
-description              : &description "Ph.D. at Beihang University. Contact: hsluo2000@buaa.edu.cn"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Chrissie-Law.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Ph.D. candidate at Beihang University. Contact: hsluo2000@buaa.edu.cn"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://chrissie-law.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Chrissie-Law/Chrissie-Law.github.io"
+repository               : "Chrissie-Law/Chrissie-Law.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "images/512x512.png"
   name             : "Huishi Luo (罗慧诗)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. at Beihang University. Contact: hsluo2000@buaa.edu.cn & hsluo2000@gmail.com"
+  bio              : "Ph.D. candidate at Beihang University. Contact: hsluo2000@buaa.edu.cn & hsluo2000@gmail.com"
   location         : "Beijing, China"
   employer         : 
   uri              : # URL
